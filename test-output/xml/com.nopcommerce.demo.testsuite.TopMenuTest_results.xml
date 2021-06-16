@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.804">
+  <properties />
+  
+  
+            <testcase name="verifyUserNavigatesToBuildYourPageAndProductAddedToCartSuccessfully" time="10.194" classname="com.nopcommerce.demo.testsuite.TopMenuTest" />
+                <testcase name="productArrangeInAssendingOrder" time="6.354" classname="com.nopcommerce.demo.testsuite.TopMenuTest" />
+                <testcase name="selectTopMenuPage" time="0.056" classname="com.nopcommerce.demo.testsuite.TopMenuTest" />
+                <testcase name="clickOnDesktopAndSortByZtoA" time="7.200" classname="com.nopcommerce.demo.testsuite.TopMenuTest" />
+      
+</testsuite>
